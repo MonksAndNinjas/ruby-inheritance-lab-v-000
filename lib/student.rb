@@ -1,7 +1,7 @@
 
 class Student < User
-  attr_accesor :first_name
+  attr_accessor :first_name
 
-  
+
 
 end
